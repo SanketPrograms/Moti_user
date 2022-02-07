@@ -1,0 +1,20 @@
+import 'package:flutter/cupertino.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+const paddingAll = 8.0;
+const paddingAllTwo = 2.0;
+const paddingAllHorizontal = 20.0;
+const paddingAllMinor = 0.5;
+const elevation_size = 10.0;
+const TitleFontsize = 14.0;
+const SubTitleFontsize = 10.0;
+const Fontsize = 12.0;
+const SizedBoxSize = 4.0;
+const themeColor = Color(0xFF00AC4C);
+const blackColor = Color(0xFF000000);
+var constantFontStyle = GoogleFonts.ptSans;
+TextStyle Titlefont = GoogleFonts.ptSans(fontSize: 16,fontWeight: FontWeight.bold) as TextStyle;
+TextStyle subTitlefont = constantFontStyle(fontSize: 12,fontWeight: FontWeight.w500) as TextStyle;
+const applicationName = "Moti Confectionery";
+ const bannerImage2 = "https://image.freepik.com/free-vector/hello-summer-tropic-fruits-banner_1268-11173.jpg";
+const constbannerImage = "https://i1.wp.com/momobud.sg/wp-content/uploads/2015/01/Picture4-1537x500.png?resize=1090%2C355";
